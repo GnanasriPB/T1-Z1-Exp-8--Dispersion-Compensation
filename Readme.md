@@ -74,6 +74,19 @@ The main physical components of this layout are:
 - Record similar measurements for comparison.  
 
 ---
+## Block Diagram
+
+<img width="791" height="415" alt="image" src="https://github.com/user-attachments/assets/191636b2-db7d-46c9-8ede-faa0ee321e60" />
+
+## Tabulation
+
+<img width="1045" height="1600" alt="image" src="https://github.com/user-attachments/assets/3426025e-7ee6-4623-9e9a-89650a441d67" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c52d9f65-08e2-4587-bf09-f3bb0af20a00" />
+
+## Output
+
+<img width="1115" height="1600" alt="image" src="https://github.com/user-attachments/assets/eeebd4aa-8443-44bf-8b96-ebf2efd06166" />
 
 ## Conclusions
 Discuss the effectiveness of dispersion-compensating fiber and the ability of the calculations to engineer a viable system.
